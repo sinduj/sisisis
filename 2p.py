@@ -8,3 +8,4 @@ c=int(input("enter value of c:"))
 sum=a+b+c
 avg=sum/3
 (print("sum,="sum,"avg=",avg))
+#sample
